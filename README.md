@@ -1,2 +1,2 @@
-# moco
-Machine-Oriented Codec
+# mpoc
+Machine Perception Optimized Codec
